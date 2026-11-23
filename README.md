@@ -4,11 +4,11 @@
 
 ## 📂 Estructura del Repositorio
 
-### 📊 1. Análisis de Datos (`/analisis-de-datos`)
+### 📊 1. Análisis de Datos 
 * **`Analisis de esperanza de vida frente a renta per capita.ipynb`**: Análisis exploratorio y visualización de datos para estudiar la correlación entre el nivel de ingresos per cápita y la esperanza de vida de distintos países.
 * **Herramientas:** Python, Pandas, Matplotlib / Seaborn.
 
-### 👁️ 2. IA y Visión por Computadora (`/ia-vision-computadora`)
+### 👁️ 2. IA 
 * 🚧 *Proyectos en desarrollo (próximamente).*
 
 ---
